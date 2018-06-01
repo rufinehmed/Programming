@@ -1,4 +1,4 @@
 # Proqramlasdirma
 .NET Development
-Developer by Rufin Ahmadov
+Developer by Ayxan Ahmadov
 salam olsun sene
