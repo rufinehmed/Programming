@@ -1,0 +1,6 @@
+Account controller
+1. Login d?yisdiril?c?k.
+2."Sifr?ni unutmusam" bolm?si ?lav? olunacaq.
+3. Sifreni d?yisdirmek bolmesi deyisdirilecek.
+4. C?x?s bolm?si d?yisdiril?c?k.
+5. 
