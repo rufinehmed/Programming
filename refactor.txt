@@ -1,4 +1,4 @@
-1.Account controller
+1.Account Controller
 	1.1 Login hissəsi dəyişdiriləcık.
 	1.2 "Şifrəni unutmuşam" hissəsi əlavə olunacaq.
 	1.3 Sifrəni dəyişmək hissəsi dəyişdiriləcək.
@@ -6,4 +6,32 @@
 	1.5 Default olaraq yüklənəcək səyfə hissəsi dəyişdiriləcək.
 	1.6 Sessiyanın təmizlənməsi hissəsi dəyişdiriləcək.
 	1.7 Sessiya birdikdən sonra Login hissəyə yönləndirmə hissəsi dəyişdiriləcək.
-2.
+2.AppDownload Controller
+	2.1 Scanner proqramının yükləmə hissəsi dəyişdiriləcək.
+4.BaseController
+	4.1 Bütün istəklərin(request) qəbulu(Initialize) hissəsi dəyişdiriləcək.
+6.Dashboard Controller
+	6.1 Bütün məlumatların yüklənməsi hissəsi dəyişdiriləcək.
+	6.2 Bütün sənədlərin yüklənməsi hissəsi dəyişdiriləcək.
+	6.3 Bütün filtirlənmiş məlumatların yüklənməsi hissəsi dəyişdiriləcək.
+8.DMSControl Controller
+	8.1 Proyektdə olan bütün controlların yüklənməsi hissəsi dəyişdiriləcək.
+10.Duplicate Controller
+	10.1 Verilmiş parametrlərə görə sənədlərin müəyyən aralığını qaytaran hissəsi dəyişdiriləcək.
+	10.2 Verilmiş sənəd nömrəsinə görə sənəd qaytaran hissəsi dəyişdiriləcək.
+12.Error Controller
+	12.1 Errorların istifadəçiyə çatdırılması hissəsi dəyişdiriləcək.
+14.File Controller
+	14.1 Faylın yüklənməsi hissəsi dəyişdiriləcək.
+	14.2 Sənədə əsas fayl seçilməsi hissəsi dəyişdiriləcək.
+	14.3 Faylın silinməsi hissəsi dəyişdiriləcək.
+	14.4 Geri bildirimlə göndərilən faylın silinməsi hissəsi dəyişdiriləcək.
+	14.5 Viza partial view hissəsi dəyişdiriləcək.
+	14.6 Fayla aid bütün vizaların siyahısı olan hissəs dəyişdiriləcək. 
+16.OrganizationAuthor Controller
+	16.1
+	16.2
+	16.3
+	16.4
+
+	
