@@ -1,9 +1,9 @@
-Account controller
-	1. Login hissəsi dəyişdiriləcık.
-	2. "Şifrəni unutmuşam" hissəsi əlavə olunacaq.
-	3. Sifrəni dəyişmək hissəsi dəyişdiriləcək.
-	4. Cıxış bölməsi dəyişdiriləcək.
-	5. Default olaraq yüklənəcək səyfə hissəsi dəyişdiriləcək.
-	6. Sessiyanın təmizlənməsi hissəsi dəyişdiriləcək.
-	7. Sessiya birdikdən sonra Login hissəyə yönləndirmə hissəsi dəyişdiriləcək.
-
+1.Account controller
+	1.1 Login hissəsi dəyişdiriləcık.
+	1.2 "Şifrəni unutmuşam" hissəsi əlavə olunacaq.
+	1.3 Sifrəni dəyişmək hissəsi dəyişdiriləcək.
+	1.4 Cıxış bölməsi dəyişdiriləcək.
+	1.5 Default olaraq yüklənəcək səyfə hissəsi dəyişdiriləcək.
+	1.6 Sessiyanın təmizlənməsi hissəsi dəyişdiriləcək.
+	1.7 Sessiya birdikdən sonra Login hissəyə yönləndirmə hissəsi dəyişdiriləcək.
+2.
