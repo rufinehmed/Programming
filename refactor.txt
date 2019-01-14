@@ -7,3 +7,51 @@
 	1.6 Sessiyanın təmizlənməsi hissəsi dəyişdiriləcək.
 	1.7 Sessiya birdikdən sonra Login hissəyə yönləndirmə hissəsi dəyişdiriləcək.
 2.
+
+3.Applicant Controller
+  3.1 Ərizəçinin əlavə edilməsi dəyişdiriləcək.
+  3.2 Ərizəçinin yenilənməsi dəyişdiriləcək.
+  3.3 Ərizəçinin silinməsi dəyişdiriləcək.
+  
+5.Direction Controller
+  5.1 İstiqamət paneli dəyişdiriləcək.
+  5.2 Sənədi yaradan şəxslərin interfeyse çıxarılmağı dəyişdiriləcək.
+  5.3 İcraçıların əlavə edilməsi dəyişdiriləcək.
+  5.4 İcraçıların yenilənməsi dəyişdiriləcək.
+  5.5 İcraçıların silinməsi dəyişdiriləcək.
+  5.6 İstiqamətin yadda saxlanılması dəyişdiriləcək.
+  5.7 İstiqamətin yenilənməsi dəyişdiriləcək.
+  5.8 İcraçıların yaradılması dəyişdiriləcək.
+  5.9 Şablonların yenilənməsi dəyişdiriləcək.
+  5.10 İstiqamətin silinməsi dəyişdiriləcək.
+  5.11 İstiqamətin təstiqlənməsi dəyişdiriləcək.
+  5.12 Sənədi yaradan şəxslərə istiqaməti göndərmək dəyişdiriləcək.
+  5.13 İstiqamət haqqda məlumatın yenilənməsi dəyişdiriləcək.
+  5.14 İstiqamət haqqda məlumatın təstiqlənməsi dəyişdiriləcək.
+  
+7.Document Controller
+  7.1 Sənədin əlavə edilməsi dəyişdiriləcək.
+  7.2 Sənədin yaradılması dəyişdiriləcək.
+  7.3 Sənədin yenilənməsi dəyişdiriləcək.
+  7.4 Sənəd haqqda məlumatın, özünü əldə etməsi dəyişdiriləcək.
+  7.5 Sənədin icraçısını və özünü yenilənməsi dəyişdiriləcək.
+  7.6 Sənədin nömrəsinin yenilənməsi dəyişdiriləcək.
+  7.7 Yanlış sənədin idarə olunması dəyişdiriləcək.
+  
+9.DuplicatePanel Controller
+  9.1 Panellərin surəti dəyişdiriləcək. 
+  9.2 Cədvəlin surəti dəyişdiriləcək.
+  9.3 Sənəd surətinin yüklənilməsi yenilənəcək.
+  9.4 İlkin müraciətin qeydiyyatı dəyişdiriləcək.
+  9.5 Sənədlərin bazadan çəkilməsi dəyişdiriləcək.
+  9.6 Sənədin sırasını bazadan çəkilməsi dəyişdiriləcək.
+  9.7 Sənədin nömrəsinə görə bazadan çəkilməsi dəyişdiriləcək.
+  
+10.Feedback Controller 
+  10.1 
+  10.2
+  10.3
+  10.4
+  10.5
+  10.6
+  
