@@ -1,6 +1,9 @@
 Account controller
-1. Login d?yisdiril?c?k.
-2."Sifr?ni unutmusam" bolm?si ?lav? olunacaq.
-3. Sifreni d?yisdirmek bolmesi deyisdirilecek.
-4. C?x?s bolm?si d?yisdiril?c?k.
-5. 
+	1. Login hissəsi dəyişdiriləcık.
+	2. "Şifrəni unutmuşam" hissəsi əlavə olunacaq.
+	3. Sifrəni dəyişmək hissəsi dəyişdiriləcək.
+	4. Cıxış bölməsi dəyişdiriləcək.
+	5. Default olaraq yüklənəcək səyfə hissəsi dəyişdiriləcək.
+	6. Sessiyanın təmizlənməsi hissəsi dəyişdiriləcək.
+	7. Sessiya birdikdən sonra Login hissəyə yönləndirmə hissəsi dəyişdiriləcək.
+
