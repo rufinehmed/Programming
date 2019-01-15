@@ -64,8 +64,20 @@
 	10.1 Verilmiş parametrlərə görə sənədlərin müəyyən aralığını qaytaran hissəsi dəyişdiriləcək.
 	10.2 Verilmiş sənəd nömrəsinə görə sənəd qaytaran hissəsi dəyişdiriləcək.
 	
+11.Feedback Controller
+	11.1 Sorğuya görə cavabların optimizasiyası dəyişdiriləcək.
+	11.2 Əməliyyat tipinə görə interfeysi istifadəçiyə gətiriliməsi dəyişdiriləcək. 
+	11.3 Əməliyyat tipinə görə interfeysin detalların göstərilməsi dəyişdiriləcək.
+	11.4 Əlaqələrin yerinə yetirilməsi dəyişdiriləcək
+	11.5 Əlaqə üçün mesajlar bölməsi dəyişdiriləcək. 
+	11.6 Əlaqə üçün mesajların əlavə edilməsi dəyişdiriləcək.
+
+	
 12.Error Controller
 	12.1 Errorların istifadəçiyə çatdırılması hissəsi dəyişdiriləcək.
+	
+13.Menu Controller
+	13.1 Əsas menu paneli dəyişdiriləcək.
 	
 14.File Controller
 	14.1 Faylın yüklənməsi hissəsi dəyişdiriləcək.
@@ -75,9 +87,28 @@
 	14.5 Viza partial view hissəsi dəyişdiriləcək.
 	14.6 Fayla aid bütün vizaların siyahısı olan hissəs dəyişdiriləcək. 
 	
+15.Organization Controller
+	15.1 Təşkilatların interfeysə bazadan gəlməsi dəyişdiriləcək.
+	15.2 Təşkilatlar növlərinə görə interfeysin idarə edilməsi dəyişdiriləcək.
+	15.3 Təşkilatların bazadan alınması dəyişdiriləcək.
+	15.4 Müəyyən təşkilatın detalların alınması dəyişdiriləcək.
+
+
 16.OrganizationAuthor Controller
-	16.1
+	16.1 
 	16.2
 	16.3
 	16.4
 
+17.QuestionList Controller
+	17.1 Sualların əməliyyat tipinə görə göstərilməsi dəyişdiriləcək.
+	17.2 Sualların əməliyyat tipinə görə silinməsi,yenilənməsi,əlavə edilməsi dəyişdiriləcək.
+	17.3 Cavabların interfeyse gətiriliməsi dəyişdiriləcək.
+
+19.Reply Controller
+	19.1 Müraciət formaların cavablandırması bölməsi dəyişdiriləcək.
+	19.2 Müraciətə görə cavablarin silinməsi,yenilənməsi,əlavə edilməsi dəyişdiriləcək.
+	19.3 Müraciətin sənədin nömrəsinə görə interfeyse gətiriliməsi dəyişdiriləcək.
+	
+
+	
